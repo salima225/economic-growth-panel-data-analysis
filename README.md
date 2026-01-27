@@ -53,7 +53,8 @@ This university econometrics project applies **panel data methods** to investiga
 
 ## 👤 Auteur / Author
 **Salimata CAMARA**  
-BUT3 Science des Données / Bachelor's in Data Science  
+BUT3 Science des Données / Bachelor's in Data Science 
+*Projet réalisé en Licence 3 STID - Analyse Économique et Économétrie*
 **Encadrant / Supervisor** : M. Assaendi FAHAD
 
 ## 📅 Année Universitaire / Academic Year
