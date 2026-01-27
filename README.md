@@ -1,5 +1,5 @@
 # 📊 Analyse Économétrique de la Croissance avec Données de Panel  
-# 📊 Econometric Analysis of Growth using Panel Data
+
 
 
 ## 🇫🇷 Présentation du Projet
@@ -26,6 +26,7 @@ Ce projet universitaire d'économétrie applique des **méthodes de données de 
 
 ---
 
+# 📊 Econometric Analysis of Growth using Panel Data
 ## 🇬🇧 Project Overview
 
 This university econometrics project applies **panel data methods** to investigate the determinants of economic growth in four West African countries (Côte d'Ivoire, Ghana, Mali, Togo).
