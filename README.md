@@ -1,5 +1,5 @@
 # 📊 Analyse Économétrique de la Croissance avec Données de Panel  
-# 📊 Econometric Analysis of Growth using Panel Data
+
 
 
 ## 🇫🇷 Présentation du Projet
@@ -7,7 +7,7 @@
 Ce projet universitaire d'économétrie applique des **méthodes de données de panel** pour étudier les déterminants de la croissance économique dans quatre pays d'Afrique de l'Ouest (Côte d'Ivoire, Ghana, Mali, Togo).
 
 ### 📁 Fichiers Principaux
-- **[📄 Rapport Complet](Panel_CAMARA.pdf)** : Méthodologie, résultats et conclusions détaillées
+- **[📄 Rapport Complet](economic-growth-panel-data-analysis.pdf)** : Méthodologie, résultats et conclusions détaillées
 - **[📊 Données](data/)** : Jeu de données utilisé pour l'analyse
 - **[📜 Scripts Stata](scripts/)** : Code d'analyse économétrique
 
@@ -25,13 +25,13 @@ Ce projet universitaire d'économétrie applique des **méthodes de données de 
    - Test de Hausman pour le choix du modèle
 
 ---
-
+# 📊 Econometric Analysis of Growth using Panel Data
 ## 🇬🇧 Project Overview
 
 This university econometrics project applies **panel data methods** to investigate the determinants of economic growth in four West African countries (Côte d'Ivoire, Ghana, Mali, Togo).
 
 ### 📁 Main Files
-- **[📄 Full Report](Panel_CAMARA.pdf)** : Detailed methodology, results and conclusions
+- **[📄 Full Report](economic-growth-panel-data-analysis.pdf)** : Detailed methodology, results and conclusions
 - **[📊 Data](data/)** : Dataset used for the analysis
 - **[📜 Stata Scripts](scripts/)** : Econometric analysis code
 
