@@ -7,15 +7,15 @@
 Ce projet universitaire d'économétrie applique des **méthodes de données de panel** pour étudier les déterminants de la croissance économique dans quatre pays d'Afrique de l'Ouest (Côte d'Ivoire, Ghana, Mali, Togo).
 
 ### 📁 Fichiers Principaux
-<<<<<<< HEAD
+ 
 - **[📄 Rapport Complet](economic-growth-panel-data-analysis.pdf)** : Méthodologie, résultats et conclusions détaillées
 - **[📊 Données](data/)** : Jeu de données utilisé pour l'analyse
 - **[📜 Scripts Stata](scripts/)** : Code d'analyse économétrique
-=======
-- **[ Rapport Complet](economic-growth-panel-data-analysis.pdf)** : Méthodologie, résultats et conclusions détaillées
-- **[ Données](data/)** : Jeu de données utilisé pour l'analyse
-- **[ Scripts Stata](scripts/)** : Code d'analyse économétrique
->>>>>>> 77c8e7387fe7c4480be96c2a0049837d51985fdc
+
+
+
+
+ 
 
 ###  Objectifs
 - Analyser l'impact du **Taux de Croissance Annuelle de la Population** sur le **Taux de Croissance du PIB par tête**
@@ -31,25 +31,25 @@ Ce projet universitaire d'économétrie applique des **méthodes de données de 
    - Test de Hausman pour le choix du modèle
 
 ---
-<<<<<<< HEAD
-=======
+ 
 
->>>>>>> 77c8e7387fe7c4480be96c2a0049837d51985fdc
+
+ 
 # 📊 Econometric Analysis of Growth using Panel Data
 ## 🇬🇧 Project Overview
 
 This university econometrics project applies **panel data methods** to investigate the determinants of economic growth in four West African countries (Côte d'Ivoire, Ghana, Mali, Togo).
 
 ### 📁 Main Files
-<<<<<<< HEAD
+ 
 - **[📄 Full Report](economic-growth-panel-data-analysis.pdf)** : Detailed methodology, results and conclusions
 - **[📊 Data](data/)** : Dataset used for the analysis
 - **[📜 Stata Scripts](scripts/)** : Econometric analysis code
-=======
-- **[ Full Report](economic-growth-panel-data-analysis.pdf)** : Detailed methodology, results and conclusions
-- **[ Data](data/)** : Dataset used for the analysis
-- **[ Stata Scripts](scripts/)** : Econometric analysis code
->>>>>>> 77c8e7387fe7c4480be96c2a0049837d51985fdc
+
+
+
+
+ 
 
 ###  Objectives
 - Analyze the impact of **Annual Population Growth Rate** on **GDP per capita Growth Rate**
