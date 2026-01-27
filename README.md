@@ -1,4 +1,4 @@
-# 📊 Analyse Économétrique de la Croissance avec Données de Panel  
+#  Analyse Économétrique de la Croissance avec Données de Panel  
 
 
 
@@ -8,9 +8,9 @@ Ce projet universitaire d'économétrie applique des **méthodes de données de 
 
 ### 📁 Fichiers Principaux
  
-- **[📄 Rapport Complet](economic-growth-panel-data-analysis.pdf)** : Méthodologie, résultats et conclusions détaillées
-- **[📊 Données](data/)** : Jeu de données utilisé pour l'analyse
-- **[📜 Scripts Stata](scripts/)** : Code d'analyse économétrique
+- **[ Rapport Complet](economic-growth-panel-data-analysis.pdf)** : Méthodologie, résultats et conclusions détaillées
+- **[ Données](data/)** : Jeu de données utilisé pour l'analyse
+- **[ Scripts Stata](scripts/)** : Code d'analyse économétrique
 
 
 
@@ -35,16 +35,16 @@ Ce projet universitaire d'économétrie applique des **méthodes de données de 
 
 
  
-# 📊 Econometric Analysis of Growth using Panel Data
+#  Econometric Analysis of Growth using Panel Data
 ## 🇬🇧 Project Overview
 
 This university econometrics project applies **panel data methods** to investigate the determinants of economic growth in four West African countries (Côte d'Ivoire, Ghana, Mali, Togo).
 
 ### 📁 Main Files
  
-- **[📄 Full Report](economic-growth-panel-data-analysis.pdf)** : Detailed methodology, results and conclusions
-- **[📊 Data](data/)** : Dataset used for the analysis
-- **[📜 Stata Scripts](scripts/)** : Econometric analysis code
+- **[ Full Report](economic-growth-panel-data-analysis.pdf)** : Detailed methodology, results and conclusions
+- **[ Data](data/)** : Dataset used for the analysis
+- **[ Stata Scripts](scripts/)** : Econometric analysis code
 
 
 
