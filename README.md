@@ -7,16 +7,16 @@
 Ce projet universitaire d'économétrie applique des **méthodes de données de panel** pour étudier les déterminants de la croissance économique dans quatre pays d'Afrique de l'Ouest (Côte d'Ivoire, Ghana, Mali, Togo).
 
 ### 📁 Fichiers Principaux
-- **[📄 Rapport Complet](Panel_CAMARA.pdf)** : Méthodologie, résultats et conclusions détaillées
-- **[📊 Données](data/)** : Jeu de données utilisé pour l'analyse
-- **[📜 Scripts Stata](scripts/)** : Code d'analyse économétrique
+- **[ Rapport Complet](Panel_CAMARA.pdf)** : Méthodologie, résultats et conclusions détaillées
+- **[ Données](data/)** : Jeu de données utilisé pour l'analyse
+- **[ Scripts Stata](scripts/)** : Code d'analyse économétrique
 
-### 🎯 Objectifs
+###  Objectifs
 - Analyser l'impact du **Taux de Croissance Annuelle de la Population** sur le **Taux de Croissance du PIB par tête**
 - Étudier la relation entre la **Part des Exportations dans le PIB** et la croissance économique
 - Appliquer et comparer différents modèles de données de panel
 
-### 🛠️ Méthodologie
+###  Méthodologie
 1. **Analyse Univariée** : Statistiques descriptives, tests de stationnarité (Dickey-Fuller), normalité (Jarque-Bera)
 2. **Analyse Bivariée** : Corrélations et nuages de points
 3. **Analyse Multivariée** :
@@ -32,16 +32,16 @@ Ce projet universitaire d'économétrie applique des **méthodes de données de 
 This university econometrics project applies **panel data methods** to investigate the determinants of economic growth in four West African countries (Côte d'Ivoire, Ghana, Mali, Togo).
 
 ### 📁 Main Files
-- **[📄 Full Report](Panel_CAMARA.pdf)** : Detailed methodology, results and conclusions
-- **[📊 Data](data/)** : Dataset used for the analysis
-- **[📜 Stata Scripts](scripts/)** : Econometric analysis code
+- **[ Full Report](Panel_CAMARA.pdf)** : Detailed methodology, results and conclusions
+- **[ Data](data/)** : Dataset used for the analysis
+- **[ Stata Scripts](scripts/)** : Econometric analysis code
 
-### 🎯 Objectives
+###  Objectives
 - Analyze the impact of **Annual Population Growth Rate** on **GDP per capita Growth Rate**
 - Study the relationship between **Share of Exports in GDP** and economic growth
 - Apply and compare different panel data models
 
-### 🛠️ Methodology
+###  Methodology
 1. **Univariate Analysis** : Descriptive statistics, stationarity tests (Dickey-Fuller), normality tests (Jarque-Bera)
 2. **Bivariate Analysis** : Correlations and scatter plots
 3. **Multivariate Analysis** :
