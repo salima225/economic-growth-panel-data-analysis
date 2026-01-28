@@ -9,7 +9,7 @@ Ce projet universitaire d'économétrie applique des **méthodes de données de 
 ### 📁 Fichiers Principaux
  
 - **[ Rapport Complet](economic-growth-panel-data-analysis.pdf)** : Méthodologie, résultats et conclusions détaillées
-- [ Données](data/) : Jeu de données utilisé pour l'analyse
+- - **[ Données Excel](data.xlsx)** : Jeu de données utilisé pour l'analyse
 - [ Scripts Stata](scripts/) : Code d'analyse économétrique
 
 
@@ -43,7 +43,7 @@ This university econometrics project applies **panel data methods** to investiga
 ### 📁 Main Files
  
 - **[ Full Report](economic-growth-panel-data-analysis.pdf)** : Detailed methodology, results and conclusions
-- [ Data](data/) : Dataset used for the analysis
+- **[ Excel Data ](data.xlsx)** : Dataset used for the analysis
 - [ Stata Scripts](scripts/) : Econometric analysis code
 
 
